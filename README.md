@@ -3,6 +3,11 @@
 A simple and fun React-based quiz app built just for learning purposes.  
 It asks React interview questions, tracks your score, and gives you feedback with some celebration 🎉
 
+## 🔗 Live Demo
+
+👉 [Try the quiz here](https://react-quiz-app-three-beryl.vercel.app/)
+
+
 ## 🚀 Features
 
 - 20 React interview-style questions
